@@ -1,9 +1,9 @@
 ---
-title: Article
+title: Blog
 
-summary: Article blog
+summary: Summary blog
 
-tags: ['article']
+tags: ['blog']
 
 thumbnail: https://pic.ibaotu.com/ume_uploads/20221214/16710012305895.png
 
